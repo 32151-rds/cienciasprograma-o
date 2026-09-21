@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #51a3bc;
+}
+
+h1 {
+    padding-left: 1vw;
+    width: 30%;
+    height: 7vh;
+    background-color: #fbfbfb;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2.0vw;
+}
+
+p {
+    width: 30%;
+    min-height: 62vh;
+    background-color: #f9f9fb;
+    float: left;
+    margin-left: 3%;
+    margin-top: 7vh;
+    font-size: 1.6vw;
+
+}
+div img {
+    width: 20vh;
+
+}
